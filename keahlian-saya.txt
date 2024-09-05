@@ -1,0 +1,10 @@
+ Keahlian saya di 5 tahun kedepan
+
+Tahun 2025
+-Java
+-php
+-laravel 
+-myssql
+
+Tahun 2026
+-python
